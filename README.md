@@ -12,3 +12,5 @@ Added first HTML page
 ### Homework
 
 [History of Type](https://github.com/conoragnew/john_baskerville/blob/gh-pages/historyoftype.html)
+
+[History of Type 2](https://github.com/conoragnew/john_baskerville/blob/gh-pages/historyoftype2.html)
