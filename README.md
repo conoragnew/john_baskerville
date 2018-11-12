@@ -8,3 +8,7 @@ Added first HTML page
 ### 05 November
 
 [John Baskerville 2](https://conoragnew.github.io/john_baskerville/baskerville2.html)
+
+### Homework
+
+[History of Type](https://github.com/conoragnew/john_baskerville/blob/gh-pages/historyoftype.html)
