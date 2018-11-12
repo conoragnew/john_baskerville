@@ -11,10 +11,10 @@ Added first HTML page
 
 ### 12 November
 
-[John Baskerville 3](file:///Users/conoragnew/Documents/GitHub/john_baskerville/baskerville3.html#top)
+[John Baskerville 3](https://github.com/conoragnew/john_baskerville/blob/gh-pages/baskerville3.html)
 
 ### Homework
 
-[History of Type](file:///Users/conoragnew/Documents/GitHub/john_baskerville/historyoftype.html)
+[History of Type](https://github.com/conoragnew/john_baskerville/blob/gh-pages/historyoftype.html)
 
-[History of Type 2](file:///Users/conoragnew/Documents/GitHub/john_baskerville/historyoftype2.html)
+[History of Type 2](https://github.com/conoragnew/john_baskerville/blob/gh-pages/historyoftype2.html)
