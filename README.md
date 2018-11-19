@@ -23,7 +23,7 @@ Added first HTML page
 
 [History of Type 2](https://conoragnew.github.io/john_baskerville/historyoftype2.html)
 
-[History of Type 3]
+[History of Type 3](https://conoragnew.github.io/john_baskerville/historyoftypethree.html)
 
 
 [History of Type 4](https://conoragnew.github.io/john_baskerville/historyoftype4.html)
