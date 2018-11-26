@@ -17,6 +17,10 @@ Added first HTML page
 
 [John Baskerville 4](https://conoragnew.github.io/john_baskerville/baskerville4.html)
 
+### 26 November
+
+[John Baskerville 5](https://conoragnew.github.io/john_baskerville/baskerville5.html)
+
 ### Homework
 
 [History of Type](https://conoragnew.github.io/john_baskerville/historyoftype.html)
@@ -24,6 +28,5 @@ Added first HTML page
 [History of Type 2](https://conoragnew.github.io/john_baskerville/historyoftype2.html)
 
 [History of Type 3](https://conoragnew.github.io/john_baskerville/historyoftypethree.html)
-
 
 [History of Type 4](https://conoragnew.github.io/john_baskerville/historyoftype4.html)
