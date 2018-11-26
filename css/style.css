@@ -44,7 +44,8 @@ blockquote {
 
 h2 {
     font-size: 2.827em;
-    margin: 1em 
+    margin: 1em 0;
+    
 }
 
 h3 {
@@ -55,8 +56,8 @@ header h3 {
     font-style: italic;
     font-size: 2.35em;
     margin-top: 1em;
-    margin-bottom: 1em;
-    color: #333
+    color: #333;
+    padding-bottom: 25px
 }
 
 /*------ Styling Links ------*/
