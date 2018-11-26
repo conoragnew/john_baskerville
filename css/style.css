@@ -14,7 +14,8 @@ body {
     max-width: 670px;
     margin: auto;
     background: #fafafa;
-    color: #222
+    color: #222;
+    font-family: 'Libre Baskerville', serif;
 } 
 
 /* ----------- typography ------------ */
