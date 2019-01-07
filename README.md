@@ -34,3 +34,7 @@ Added first HTML page
 [History of Type 3](https://conoragnew.github.io/john_baskerville/historyoftypethree.html)
 
 [History of Type 4](https://conoragnew.github.io/john_baskerville/historyoftype4.html)
+
+### Designer Essay
+
+[Paul Rand Designer Essay](https://conoragnew.github.io/john_baskerville/paulrandessay.html)
